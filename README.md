@@ -2,9 +2,9 @@
 
 Steps taken while Analysing data Using Excel: ETL, Power Query, Pivot Table, Excel Charts
 
-•	Uploaded data into Power Query from original dataset
+• Uploaded data into Power Query from original dataset
 
-•	Removed duplicate values
+• Removed duplicate values
 
 •	Transformed data using below steps:
 
